@@ -3,3 +3,6 @@ esto es una prueba de defensa para git:
 - David Rosero
 
 Estoy escribiendo modificando este archivo
+
+
+bajando modificaciones de este archivo
